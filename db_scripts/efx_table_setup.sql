@@ -1,4 +1,4 @@
-CREATE TABLE pae.depth (
+CREATE TABLE efx.depth (
   `timestamp` DateTime64(6),
   `date` Date,
   `triggerTimestamp` DateTime64(6),
